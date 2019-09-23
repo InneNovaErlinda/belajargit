@@ -3,3 +3,5 @@ selasa : sim
 
 kamis : GNS 3
 jumat : trager GB
+sabtu : Nurilda(menonton film)
+minggu : Nurilda(mencuci montor)
