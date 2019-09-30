@@ -1,8 +1,20 @@
-senin : belajarbootstrap, git
+
+senin : git (branch,merge)
+senin : desain antarmuka(wireframe)
+
+senin : git
+
 selasa : sim(Sistem Informasi Mnagaement)
-rabu : pembrograman berbasis object
 
 kamis : GNS 3
 jumat : triger DB
+
 sabtu : Inne Tugas kelompok UI
 Minggu : Inne Tugas Kelompok Basis Data Lanjut
+
+ini file brunch
+
+sabtu : Nurilda(menonton film)
+minggu : Nurilda(mencuci montor)
+
+ini di master
