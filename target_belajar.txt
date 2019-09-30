@@ -1,4 +1,8 @@
 senin : belajarbootstrap, git
-selasa : sim
+selasa : sim(Sistem Informasi Mnagaement)
 rabu : pembrograman berbasis object
+
 kamis : GNS 3
+jumat : triger DB
+sabtu : Inne Tugas kelompok UI
+Minggu : Inne Tugas Kelompok Basis Data Lanjut
