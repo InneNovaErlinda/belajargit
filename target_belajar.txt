@@ -1,7 +1,20 @@
+
+senin : git (branch,merge)
+senin : desain antarmuka(wireframe)
+
 senin : git
-selasa : sim
+
+selasa : sim(Sistem Informasi Mnagaement)
 
 kamis : GNS 3
-jumat : trager GB
+jumat : triger DB
+
+sabtu : Inne Tugas kelompok UI
+Minggu : Inne Tugas Kelompok Basis Data Lanjut
+
+ini file brunch
+
 sabtu : Nurilda(menonton film)
 minggu : Nurilda(mencuci montor)
+
+ini di master
